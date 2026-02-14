@@ -1,5 +1,23 @@
- + Made some slight improvements to the Replay camera
- + Connect: Crash when attempting to sync items (could not reproduce, added safety check)
- + Connect: Fixed how Spazer Bolt collision can become desynced from visuals if shared
- + Fixed a crash when importing a folder with 15,000+ rooms
-	> You may still experience this crash if the folder contains 15,000+ room files starting with the same letter/number/symbol
+This is a game designed to emulate the feel of NEStroid, while adding improvements to the graphics, sound, and mechanics. Each Planet is essentially a complete "game", but they are all bundled together and run on the same engine.
+
+There are 2 complete Planets, one of which is the original NEStroid world. The other has an original design with some additional areas and bosses.
+
+A 3rd Planet is available as a demo, and it is randomized, so each playthrough is different! You can even use a built in Room Studio to design your own rooms for it!
+
+On top of that, you can do online multiplayer (co-op or versus), item randomizer mode, and more!
+
+Here are some of the adjustments/additions made:
++Sharper Movement
++A Map System
++Restarting with Full Health and Ammo
++Customizable Controls
++Item Percentage, Time Counter, and Mini-map
++Randomized Mode, where Item locations will be swapped randomly
++Hard Difficulty, where enemies deal 3x Damage
++Strike Mode, where there is a finite amount of Energy and Ammo in the world, but you start with all upgrades
++Automatic Saving, no passcode needed
++Keeps track of Speedrun Data for your playthroughs
++Smoother/Added Animations
++Fancy Particle Effects
++Equipment Menu, turn items on/off
++New remixed 8-bit audio
