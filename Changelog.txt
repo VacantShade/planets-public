@@ -1,0 +1,5 @@
+ + Made some slight improvements to the Replay camera
+ + Connect: Crash when attempting to sync items (could not reproduce, added safety check)
+ + Connect: Fixed how Spazer Bolt collision can become desynced from visuals if shared
+ + Fixed a crash when importing a folder with 15,000+ rooms
+	> You may still experience this crash if the folder contains 15,000+ room files starting with the same letter/number/symbol
