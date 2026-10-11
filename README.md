@@ -1,6 +1,6 @@
 NEStroid REIMAGINED
 ---
-Relive the 80s classic with a modern touch, user generated content, and endless planets to explore!
+Relive the 80s classic with modern features, user generated content, and endless planets to explore!
 
 An engine built from the ground up to evoke the feel and style of NEStroid, while adding improvements to the graphics, sound, and mechanics. The engine supports multiple "planets", which are essentially their own games.
 
